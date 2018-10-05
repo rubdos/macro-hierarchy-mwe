@@ -1,0 +1,6 @@
+[package]
+name = "macro-hierarchy"
+version = "0.1.0"
+authors = ["Ruben De Smet <ruben.de.smet@rubdos.be>"]
+
+[dependencies]
